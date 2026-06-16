@@ -15,7 +15,6 @@ week6/
 ├── dashboard.ipynb            # Interactive Jupyter Notebook analysis
 ├── dashboard.py               # Standalone pipeline script (generates assets)
 ├── README.md                  # Comprehensive project documentation
-├── analysis_report.pdf        # Professional executive PDF report
 ├── dashboard_demo.gif         # Animated demo of the interactive Plotly charts
 └── visualizations/            # Saved static & interactive visualization folder
     ├── box_plot.png
